@@ -1,15 +1,15 @@
-# Sheep-farm(팀프로젝트)
+## Sheep-farm(팀프로젝트)
 안드로이드 스튜디오를 통해 만든 모바일 어플리케이션 게임. 
 
-Development environment
-<br>OS: Windows 7
+### Development environment
+OS: Windows 7
 <br>Android Studio v2.1.0
 <br>BlueStacks
 
 
 
--게임 소개<br>
-<br>쉽팜(sheep-farm)은 양 목장에 고용된 플레이어가 양을 키우며 목장을 발전시키는 게임이다. 
+### 게임 소개
+쉽팜(sheep-farm)은 양 목장에 고용된 플레이어가 양을 키우며 목장을 발전시키는 게임이다. 
 <br>플레이어는 양으로부터 양털을 얻어 이를 팔며 돈을 벌고, 목장을 위협하는 다양한 적들로부터 양을 지킨다. 
 <br>획득한 돈은 새로운 양을 사는데 이용하거나 미션을 클리어하는데 도움을 준다. 
 <br>게임은 일정한 조건을 만족시키지	못할 경우 패배한다. 대표적으로 목장 주인에게 일정량의 돈을 정기적으로 

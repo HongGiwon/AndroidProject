@@ -1,4 +1,4 @@
-# Sheep-farm
+# Sheep-farm(팀프로젝트)
 안드로이드 스튜디오를 통해 만든 모바일 어플리케이션 게임. 
 
 Development environment
